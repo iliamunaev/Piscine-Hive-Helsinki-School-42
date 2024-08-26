@@ -69,13 +69,16 @@ These functions implement basic algorithms and mathematical operations.
 7. **[ft_range](https://github.com/iliamunaev/Piscine-Hive-Helsinki-School-42/blob/main/functions/ft_range.c)**
    - Creates an array of integers containing all values between two given integers, inclusive. This function takes two integers, `min` and `max`, and returns an array filled with values from `min` to `max`.
 
-8. **[ft_recursive_power](https://github.com/iliamunaev/Piscine-Hive-Helsinki-School-42/blob/main/functions/ft_recursive_power.c)**
+8. **[ft_recursive_factorial](https://github.com/iliamunaev/Piscine-Hive-Helsinki-School-42/blob/main/functions/ft_recursive_factorial.c)**
+   - Calculates the factorial of a number using a recursive method. This function takes an integer `n` as an argument and returns the factorial of `n`.
+
+9. **[ft_recursive_power](https://github.com/iliamunaev/Piscine-Hive-Helsinki-School-42/blob/main/functions/ft_recursive_power.c)**
    - Computes the power of a number using a recursive method. This function takes two integers, `base` and `exponent`, and returns the result of raising the base to the power of the exponent.
 
-9. **[ft_sort_params](https://github.com/iliamunaev/Piscine-Hive-Helsinki-School-42/blob/main/functions/ft_sort_params.c)**
+10. **[ft_sort_params](https://github.com/iliamunaev/Piscine-Hive-Helsinki-School-42/blob/main/functions/ft_sort_params.c)**
    - Sorts and prints all command-line arguments passed to the program in ascending order. Each argument is printed on a new line.
 
-10. **[ft_sqrt](https://github.com/iliamunaev/Piscine-Hive-Helsinki-School-42/blob/main/functions/ft_sqrt.c)**
+11. **[ft_sqrt](https://github.com/iliamunaev/Piscine-Hive-Helsinki-School-42/blob/main/functions/ft_sqrt.c)**
     - Computes the square root of a number. This function takes an integer as an argument and returns the square root if it is a perfect square, otherwise returns 0.
 
 ### Custom Implementations
