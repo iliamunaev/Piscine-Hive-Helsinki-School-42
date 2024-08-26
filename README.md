@@ -38,7 +38,7 @@ These functions are commonly found in C Libraries, and the exercises involved re
 
 7. **[ft_strdup](https://github.com/iliamunaev/Piscine-Hive-Helsinki-School-42/blob/main/functions/ft_strdup.c)**
    - Duplicates a string. This function takes a string as an argument and returns a pointer to a newly allocated space in memory containing a copy of the string.
-   - **Library Equivalent**: `strdup` (in `<string.h>`, POSIX standard)
+   - **Library Equivalent**: `strdup` (in `<string.h>`)
 
 8. **[ft_strstr](https://github.com/iliamunaev/Piscine-Hive-Helsinki-School-42/blob/main/functions/ft_strstr.c)**
    - Locates a substring within a string. This function takes two strings as arguments and returns a pointer to the first occurrence of the substring in the main string.
