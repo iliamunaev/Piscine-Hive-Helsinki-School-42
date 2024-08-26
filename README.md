@@ -10,39 +10,39 @@ The purpose of these exercises was to provide hands-on experience with the C pro
 
 ### Standard Library Equivalents
 
-These functions are commonly found in the C Standard Library, and the exercises involved re-implementing them to better understand their inner workings.
+These functions are commonly found in C Libraries, and the exercises involved re-implementing them to better understand their inner workings.
 
 1. **[ft_atoi.c](https://link-url-here.org](https://github.com/iliamunaev/Piscine-Hive-Helsinki-School-42/blob/main/functions/ft_atoi.c))**
    - Converts a string to an integer. This function takes a string of characters representing a numerical value and converts it into its corresponding integer form.
-   - **Standard Library Equivalent**: `atoi` (in `<stdlib.h>`)
+   - **Library Equivalent**: `atoi` (in `<stdlib.h>`)
 
 2. **[ft_strlen](https://github.com/iliamunaev/Piscine-Hive-Helsinki-School-42/blob/main/functions/ft_strlen.c)**
    - Computes the length of a string. This function takes a string as an argument and returns the number of characters in the string, excluding the null terminator.
-   - **Standard Library Equivalent**: `strlen` (in `<string.h>`)
+   - **Library Equivalent**: `strlen` (in `<string.h>`)
 
 3. **[ft_strcmp](https://github.com/iliamunaev/Piscine-Hive-Helsinki-School-42/blob/main/functions/ft_strcmp.c)**
    - Compares two strings. This function takes two strings as arguments and returns an integer based on the comparison of their ASCII values.
-   - **Standard Library Equivalent**: `strcmp` (in `<string.h>`)
+   - **Library Equivalent**: `strcmp` (in `<string.h>`)
 
 4. **[ft_strncmp](https://github.com/iliamunaev/Piscine-Hive-Helsinki-School-42/blob/main/functions/ft_strncmp.c)**
    - Compares two strings up to `n` characters. This function takes two strings and an integer `n` as arguments and returns an integer based on the comparison of their ASCII values.
-   - **Standard Library Equivalent**: `strncmp` (in `<string.h>`)
+   - **Library Equivalent**: `strncmp` (in `<string.h>`)
 
 5. **[ft_strcat](https://github.com/iliamunaev/Piscine-Hive-Helsinki-School-42/blob/main/functions/ft_strcat.c)**
    - Concatenates two strings. This function appends the source string to the destination string.
-   - **Standard Library Equivalent**: `strcat` (in `<string.h>`)
+   - **Library Equivalent**: `strcat` (in `<string.h>`)
 
 6. **[ft_strncat](https://github.com/iliamunaev/Piscine-Hive-Helsinki-School-42/blob/main/functions/ft_strncat.c)**
    - Concatenates two strings, but only up to `n` characters from the source string. This function appends up to `n` characters from the source string to the destination string.
-   - **Standard Library Equivalent**: `strncat` (in `<string.h>`)
+   - **Library Equivalent**: `strncat` (in `<string.h>`)
 
 7. **[ft_strdup](https://github.com/iliamunaev/Piscine-Hive-Helsinki-School-42/blob/main/functions/ft_strdup.c)**
    - Duplicates a string. This function takes a string as an argument and returns a pointer to a newly allocated space in memory containing a copy of the string.
-   - **Standard Library Equivalent**: `strdup` (in `<string.h>`, POSIX standard)
+   - **Library Equivalent**: `strdup` (in `<string.h>`, POSIX standard)
 
 8. **[ft_strstr](https://github.com/iliamunaev/Piscine-Hive-Helsinki-School-42/blob/main/functions/ft_strstr.c)**
    - Locates a substring within a string. This function takes two strings as arguments and returns a pointer to the first occurrence of the substring in the main string.
-   - **Standard Library Equivalent**: `strstr` (in `<string.h>`)
+   - **Library Equivalent**: `strstr` (in `<string.h>`)
 
 ### Algorithms
 
