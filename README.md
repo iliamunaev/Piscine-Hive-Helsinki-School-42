@@ -76,9 +76,9 @@ These functions implement basic algorithms and mathematical operations.
    - Computes the power of a number using a recursive method. This function takes two integers, `base` and `exponent`, and returns the result of raising the base to the power of the exponent.
 
 10. **[ft_sort_params](https://github.com/iliamunaev/Piscine-Hive-Helsinki-School-42/blob/main/functions/ft_sort_params.c)**
-   - Sorts and prints all command-line arguments passed to the program in ascending order. Each argument is printed on a new line.
+    - Sorts and prints all command-line arguments passed to the program in ascending order. Each argument is printed on a new line.
 
-11. **[ft_sqrt](https://github.com/iliamunaev/Piscine-Hive-Helsinki-School-42/blob/main/functions/ft_sqrt.c)**
+12. **[ft_sqrt](https://github.com/iliamunaev/Piscine-Hive-Helsinki-School-42/blob/main/functions/ft_sqrt.c)**
     - Computes the square root of a number. This function takes an integer as an argument and returns the square root if it is a perfect square, otherwise returns 0.
 
 ### Custom Implementations
