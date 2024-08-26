@@ -8,7 +8,7 @@ The purpose of these exercises was to provide hands-on experience with the C pro
 
 ## Functions
 
-### Standard Library Equivalents
+### Library Equivalents
 
 These functions are commonly found in C Libraries, and the exercises involved re-implementing them to better understand their inner workings.
 
